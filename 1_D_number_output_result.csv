@@ -1,0 +1,5 @@
+quantity,count(order_details_id)
+1,41414
+2,780
+3,18
+4,3
